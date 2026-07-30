@@ -1,0 +1,6 @@
+{
+  "name": "APK Store",
+  "description": "Professional APK upload and fast download platform with verified security and high speed server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

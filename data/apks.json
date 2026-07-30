@@ -1,0 +1,190 @@
+[
+  {
+    "id": "apk-1",
+    "title": "WhatsApp Messenger",
+    "packageName": "com.whatsapp",
+    "version": "2.24.12.78",
+    "size": "48.5 MB",
+    "sizeBytes": 50855936,
+    "category": "Social",
+    "developer": "WhatsApp LLC",
+    "minAndroid": "Android 5.0+",
+    "iconUrl": "https://images.unsplash.com/photo-1614680376593-902f749f71bf?auto=format&fit=crop&w=160&q=80",
+    "downloadCount": 154200,
+    "rating": 4.8,
+    "ratingCount": 12450,
+    "description": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. Simple, reliable, and private messaging.",
+    "changelog": "Bug fixes, speed enhancements, and voice note transcriptions added.",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?auto=format&fit=crop&w=600&q=80"
+    ],
+    "uploadedAt": "2026-07-28T10:00:00.000Z",
+    "isVerified": true,
+    "verifiedBy": "Play Protect & VirusTotal",
+    "downloadSpeedScore": "Ultra Fast CDN (100 MB/s)",
+    "tags": [
+      "Messaging",
+      "Social",
+      "Video Call",
+      "Free"
+    ],
+    "architecture": "universal"
+  },
+  {
+    "id": "apk-2",
+    "title": "PUBG MOBILE - BGMI Lite",
+    "packageName": "com.pubg.krmobile",
+    "version": "3.2.0",
+    "size": "720 MB",
+    "sizeBytes": 754974720,
+    "category": "Games",
+    "developer": "KRAFTON, Inc.",
+    "minAndroid": "Android 6.0+",
+    "iconUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=160&q=80",
+    "downloadCount": 89300,
+    "rating": 4.6,
+    "ratingCount": 8900,
+    "description": "PUBG MOBILE Lite offers intense 10-minute battle royale action. Play with high frame rates, custom graphics modes, and optimized performance on all smartphones.",
+    "changelog": "New Mech Royale Mode, weapon rebalances, and 90 FPS support enabled.",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80"
+    ],
+    "uploadedAt": "2026-07-25T14:20:00.000Z",
+    "isVerified": true,
+    "verifiedBy": "Kaspersky & VirusTotal",
+    "downloadSpeedScore": "High Speed Mirror (85 MB/s)",
+    "tags": [
+      "Game",
+      "Battle Royale",
+      "Action",
+      "Multiplayer"
+    ],
+    "architecture": "arm64-v8a"
+  },
+  {
+    "id": "apk-3",
+    "title": "Speedtest Master Pro",
+    "packageName": "com.speedtest.master.pro",
+    "version": "5.10.2",
+    "size": "18.2 MB",
+    "sizeBytes": 19084083,
+    "category": "Tools",
+    "developer": "SpeedTest Labs",
+    "minAndroid": "Android 5.0+",
+    "iconUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=160&q=80",
+    "downloadCount": 43200,
+    "rating": 4.9,
+    "ratingCount": 3410,
+    "description": "Accurately test network download speed, upload ping, and Wi-Fi latency. Includes network analyzer, ping test, and signal detector.",
+    "changelog": "Added 5G network support and latency ping graph exports.",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80"
+    ],
+    "uploadedAt": "2026-07-20T08:15:00.000Z",
+    "isVerified": true,
+    "verifiedBy": "VirusTotal Clean",
+    "downloadSpeedScore": "Direct Speed CDN (120 MB/s)",
+    "tags": [
+      "Utility",
+      "Speed Test",
+      "WiFi",
+      "Network"
+    ],
+    "architecture": "universal"
+  },
+  {
+    "id": "apk-4",
+    "title": "Photo Editor & Collage Pro",
+    "packageName": "com.photo.editor.pro",
+    "version": "4.8.1",
+    "size": "32.6 MB",
+    "sizeBytes": 34183577,
+    "category": "Media",
+    "developer": "InShot Inc.",
+    "minAndroid": "Android 7.0+",
+    "iconUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=160&q=80",
+    "downloadCount": 67100,
+    "rating": 4.7,
+    "ratingCount": 5200,
+    "description": "Pro photo editing suite with 100+ filters, background remover, neon effects, body retouching, and grid collage creator without watermark.",
+    "changelog": "AI Background Eraser improvements & retro light leak filters.",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80"
+    ],
+    "uploadedAt": "2026-07-18T18:40:00.000Z",
+    "isVerified": true,
+    "verifiedBy": "Play Protect Verified",
+    "downloadSpeedScore": "Ultra Fast CDN (95 MB/s)",
+    "tags": [
+      "Photo",
+      "Editor",
+      "AI",
+      "Camera"
+    ],
+    "architecture": "universal"
+  },
+  {
+    "id": "apk-5",
+    "title": "VLC Media Player",
+    "packageName": "org.videolan.vlc",
+    "version": "3.5.4",
+    "size": "29.8 MB",
+    "sizeBytes": 31247564,
+    "category": "Media",
+    "developer": "VideoLAN",
+    "minAndroid": "Android 4.2+",
+    "iconUrl": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?auto=format&fit=crop&w=160&q=80",
+    "downloadCount": 98400,
+    "rating": 4.8,
+    "ratingCount": 9100,
+    "description": "VLC for Android is a full audio and video player with support for all formats (MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv, AAC). Subtitle support included.",
+    "changelog": "Hardware acceleration fixes for 4K 60FPS playback.",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=600&q=80"
+    ],
+    "uploadedAt": "2026-07-12T11:00:00.000Z",
+    "isVerified": true,
+    "verifiedBy": "Open Source Security Audit",
+    "downloadSpeedScore": "Direct Mirror (110 MB/s)",
+    "tags": [
+      "Video Player",
+      "Audio",
+      "VLC",
+      "Free"
+    ],
+    "architecture": "universal"
+  },
+  {
+    "id": "apk-6",
+    "title": "Notion - Notes & Workspace",
+    "packageName": "notion.id",
+    "version": "0.6.80",
+    "size": "42.1 MB",
+    "sizeBytes": 44145049,
+    "category": "Productivity",
+    "developer": "Notion Labs, Inc.",
+    "minAndroid": "Android 8.0+",
+    "iconUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=160&q=80",
+    "downloadCount": 31200,
+    "rating": 4.5,
+    "ratingCount": 2800,
+    "description": "Write, plan, collaborate, and get organized with Notion. Notes, docs, tasks, databases, and AI assistance all in one connected workspace.",
+    "changelog": "Offline page sync speed boosted by 30%.",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "uploadedAt": "2026-07-10T15:30:00.000Z",
+    "isVerified": true,
+    "verifiedBy": "VirusTotal Clean",
+    "downloadSpeedScore": "High Speed CDN (90 MB/s)",
+    "tags": [
+      "Notes",
+      "Productivity",
+      "AI",
+      "Tasks"
+    ],
+    "architecture": "universal"
+  }
+]
